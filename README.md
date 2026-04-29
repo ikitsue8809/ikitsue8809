@@ -63,21 +63,21 @@
 
 ## 🌐 Liens
 
-[![LinkBio](https://img.shields.io/badge/Link.bio-6a0dad?style=for-the-badge&logo=linktree&logoColor=white)](https://lnk.bio/ikitsue)
-[![Discord](https://img.shields.io/badge/Discord-6a0dad?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/@ikitsue)
-[![Instagram](https://img.shields.io/badge/Instagram-6a0dad?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ikitsue)
-[![TikTok](https://img.shields.io/badge/TikTok-6a0dad?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ikitsue)
-[![X (Twitter)](https://img.shields.io/badge/X-6a0dad?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ikitsue)
-[![Steam](https://img.shields.io/badge/Steam-6a0dad?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199385628123/)
+[![LinkBio](https://img.shields.io/badge/Link.bio-3B0050?style=for-the-badge&logo=linktree&logoColor=white)](https://lnk.bio/ikitsue)
+[![Discord](https://img.shields.io/badge/Discord-3B0050?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/@ikitsue)
+[![Instagram](https://img.shields.io/badge/Instagram-3B0050?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ikitsue)
+[![TikTok](https://img.shields.io/badge/TikTok-3B0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ikitsue)
+[![X (Twitter)](https://img.shields.io/badge/X-3B0050?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ikitsue)
+[![Steam](https://img.shields.io/badge/Steam-3B0050?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199385628123/)
 
 ---
 
 ## 👁️ Badges
 
-[![Python](https://img.shields.io/badge/Python-6a0dad?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-6a0dad?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[![Java](https://img.shields.io/badge/Java-6a0dad?style=flat-square&logo=java&logoColor=white)](https://www.java.com/fr/)
-[![JSX](https://img.shields.io/badge/JSX-6a0dad?style=flat-square&logo=react&logoColor=white)](https://fr.legacy.reactjs.org/docs/introducing-jsx.html)
-[![Node.js](https://img.shields.io/badge/Node-6a0dad?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/fr)
-[![Git](https://img.shields.io/badge/Git-6a0dad?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-[![VSCode](https://img.shields.io/badge/VSCode-6a0dad?style=flat-square&logo=visualstudio&logoColor=white)](https://code.visualstudio.com/)
+[![Python](https://img.shields.io/badge/Python-3B0050?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-3B0050?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![Java](https://img.shields.io/badge/Java-3B0050?style=flat-square&logo=java&logoColor=white)](https://www.java.com/fr/)
+[![JSX](https://img.shields.io/badge/JSX-3B0050?style=flat-square&logo=react&logoColor=white)](https://fr.legacy.reactjs.org/docs/introducing-jsx.html)
+[![Node.js](https://img.shields.io/badge/Node-3B0050?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/fr)
+[![Git](https://img.shields.io/badge/Git-3B0050?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![VSCode](https://img.shields.io/badge/VSCode-3B0050?style=flat-square&logo=visualstudio&logoColor=white)](https://code.visualstudio.com/)
