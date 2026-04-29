@@ -4,7 +4,7 @@
   
   <h1>✧･ﾟ: *✧ Ikitsue (Second Account) ✧* :･ﾟ✧</h1>
   
-  <h3>💜 Compte officiel de Ikitsue 💜</h3>
+  <h3>🖤 Compte officiel de Ikitsue 🖤</h3>
 </div>
 <div align="center">
      <a href="/cs.html" target="_blank">
@@ -16,13 +16,13 @@
 
 <div align="center">
   
-💜 <strong>Compte secondaire — Programmeur débutant</strong>
+🖤 <strong>Compte secondaire — Programmeur débutant</strong>
 
 </div>
 
 ---
 
-## 💜 About Me
+## 🖤 About Me
 - 🥐 Français — je parle **English** et **Русский**
 - 💻 Je crée des **sites**, des **apps**
 - 🐍 Je code principalement en **JavaScript / JSX**
@@ -31,7 +31,7 @@
 
 ---
 
-## 🌌 Stack Technique
+## 😏 Stack Technique
 | Catégorie | Outils |
 |---|---|
 | 🌐 Front-end | HTML • CSS • JS • JSX |
@@ -41,7 +41,7 @@
 
 ---
 
-## 💥 Projets phares
+## 🗡️ Projets phares
 | 🎯 Projet | 📜 Description | 🔥 Statut |
 |---|---|---|
 | **Site + App pour cs2 (les utilitaires)** | En cours de développement car grandes ambitions. | 🌘 |
@@ -51,7 +51,7 @@
 
 ---
 
-## 🌀 Expertise
+## 🔮 Expertise
 | Compétence | Niveau |
 |---|---|
 | 🐍 Python | ⭐⭐☆✰✰ |
